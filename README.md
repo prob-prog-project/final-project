@@ -1,16 +1,8 @@
-# Final Project Repository Template
+# Final Project
 
-This is the final project repository template for
-[Machine Learning with Probabilistic Programming](http://www.proditus.com/mlpp2021).
+This is the final project repository for Joy and Alexander 
+Modified single cell hierarchial poisson factorization
 
-## Duplicating your own copy of this repository
-
-Please follow these
-[instructions](https://help.github.com/articles/duplicating-a-repository/)
-to make a copy of this repository and push it to your own GitHub account.
-
-Make sure to create a **new repository** on your own GitHub account before
-starting this process.
 
 ## Final Project Notebook
 We have included a example of a Jupyter notebook under
