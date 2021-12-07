@@ -4,7 +4,7 @@ This is the final project repository for Joy and Alexander
 
 Modified single cell hierarchial poisson factorization
 
-#NOTE
+# NOTE
 
 scanpy does not properly install via pip. You must run 
 conda install scanpy 
