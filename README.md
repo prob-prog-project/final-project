@@ -15,8 +15,7 @@ after installing the requirements.txt file
 The gamma mixture model takes around 10 minutes to run 
 and the hierarchial model takes around 1 hour on GCP.
 
-Locally the gamma takes ~30 minutes and we have not 
-trained the hierarchial model locally
+Locally the gamma takes ~30 minutes and the hierarchial takes multiple hours.
 
 ## Final Project Notebook
 We have included a example of a Jupyter notebook under
