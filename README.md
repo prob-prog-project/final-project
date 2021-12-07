@@ -4,6 +4,11 @@ This is the final project repository for Joy and Alexander
 
 Modified single cell hierarchial poisson factorization
 
+#NOTE
+
+scanpy does not properly install via pip. You must run 
+conda install scanpy 
+after installing the requirements.txt file
 
 ## Final Project Notebook
 We have included a example of a Jupyter notebook under
