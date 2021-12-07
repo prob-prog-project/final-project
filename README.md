@@ -7,7 +7,9 @@ Modified single cell hierarchial poisson factorization
 # NOTE
 
 scanpy does not properly install via pip. You must run 
-conda install scanpy 
+
+conda install scanpy
+
 after installing the requirements.txt file
 
 The gamma mixture model takes around 10 minutes to run 
