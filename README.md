@@ -10,6 +10,12 @@ scanpy does not properly install via pip. You must run
 conda install scanpy 
 after installing the requirements.txt file
 
+The gamma mixture model takes around 10 minutes to run 
+and the hierarchial model takes around 1 hour on GCP.
+
+Locally the gamma takes ~30 minutes and we have not 
+trained the hierarchial model locally
+
 ## Final Project Notebook
 We have included a example of a Jupyter notebook under
 `/notebook-example/example.ipynb`. This shows how to use markdown along with
